@@ -86,4 +86,4 @@ group :test do
     gem 'capybara', '~> 3.40'
 end
 
-source 'https://rubygems.org'
+source 'http://rubygems.org'
